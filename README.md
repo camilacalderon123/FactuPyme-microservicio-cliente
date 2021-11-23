@@ -4,7 +4,7 @@ El microservicio cliente se encarga de la administración de los mismos. Dicho m
 ## 🙍‍♀️ Clientes
 
 **Response**
-[block:code]
+```
 {
   "codes": [
     {
@@ -13,4 +13,4 @@ El microservicio cliente se encarga de la administración de los mismos. Dicho m
     }
   ]
 }
-[/block]
+```
